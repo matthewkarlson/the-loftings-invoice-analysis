@@ -1,0 +1,3236 @@
+{
+    "contractorInvoices": [
+        {
+            "category": "Reserve Fund",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20013\\477184\\INVOICE.MW_378008_20250722_1000740201.pdf",
+            "heading": "3716 Reserves - Internal",
+            "internalReference": "378008",
+            "invoiceDate": "2025-06-27",
+            "invoiceGross": 348,
+            "properties": [
+                {
+                    "amount": 348,
+                    "category": "Reserve Fund",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3716 Reserves - Internal",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Project Management Incom"
+        },
+        {
+            "category": "Reserve Fund",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\16062\\499667\\Invoice INV59498.pdf",
+            "heading": "3715 Reserves - External",
+            "internalReference": "400571",
+            "invoiceDate": "2025-11-25",
+            "invoiceGross": 252,
+            "properties": [
+                {
+                    "amount": 252,
+                    "category": "Reserve Fund",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3715 Reserves - External",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "INV59498",
+            "supplierName": "Target Maintenance GB Ltd."
+        },
+        {
+            "category": "Reserve Fund",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20013\\477185\\INVOICE.MW_378009_20250722_1000740201.pdf",
+            "heading": "3716 Reserves - Internal",
+            "internalReference": "378009",
+            "invoiceDate": "2025-06-27",
+            "invoiceGross": 348,
+            "properties": [
+                {
+                    "amount": 348,
+                    "category": "Reserve Fund",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3716 Reserves - Internal",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Project Management Incom"
+        },
+        {
+            "category": "Electrical Maintenance & Repairs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10731\\483083\\14593.pdf",
+            "heading": "3037 Electrical Maintenance",
+            "internalReference": "383083",
+            "invoiceDate": "2025-07-21",
+            "invoiceGross": 240,
+            "properties": [
+                {
+                    "amount": 240,
+                    "category": "Electrical Maintenance & Repairs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3037 Electrical Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "14593",
+            "supplierName": "Herts Electrical Contractors L"
+        },
+        {
+            "category": "Electrical Maintenance & Repairs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\491059\\Invoice - 020028.pdf",
+            "heading": "3037 Electrical Maintenance",
+            "internalReference": "389321",
+            "invoiceDate": "2025-09-01",
+            "invoiceGross": 390,
+            "properties": [
+                {
+                    "amount": 390,
+                    "category": "Electrical Maintenance & Repairs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3037 Electrical Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020028",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Electrical Maintenance & Repairs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\493456\\Invoice - 020351.pdf",
+            "heading": "3037 Electrical Maintenance",
+            "internalReference": "391033",
+            "invoiceDate": "2025-09-18",
+            "invoiceGross": 780,
+            "properties": [
+                {
+                    "amount": 780,
+                    "category": "Electrical Maintenance & Repairs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3037 Electrical Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020351",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\72705\\482583\\ESCGLOBAL A4 INV 19401_CRD V1024 KATIE.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "381567",
+            "invoiceDate": "2025-07-02",
+            "invoiceGross": 690,
+            "properties": [
+                {
+                    "amount": 690,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "19401",
+            "supplierName": "ESC Global LTD"
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\482804\\Invoice - 018962.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "382515",
+            "invoiceDate": "2025-07-11",
+            "invoiceGross": 114,
+            "properties": [
+                {
+                    "amount": 114,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "018962",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\493132\\Invoice - 020298.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "390606",
+            "invoiceDate": "2025-09-16",
+            "invoiceGross": 54,
+            "properties": [
+                {
+                    "amount": 54,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020298",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\493134\\Invoice - 020299.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "390594",
+            "invoiceDate": "2025-09-16",
+            "invoiceGross": 120,
+            "properties": [
+                {
+                    "amount": 120,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020299",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\493922\\Invoice - 020359.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "391150",
+            "invoiceDate": "2025-09-19",
+            "invoiceGross": 390,
+            "properties": [
+                {
+                    "amount": 390,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020359",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\494345\\Invoice - 020422.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "391877",
+            "invoiceDate": "2025-09-25",
+            "invoiceGross": 120,
+            "properties": [
+                {
+                    "amount": 120,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020422",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\494347\\Invoice - 020426.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "391875",
+            "invoiceDate": "2025-09-25",
+            "invoiceGross": 240,
+            "properties": [
+                {
+                    "amount": 240,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020426",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10344\\498517\\Invoice 15397.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "395270",
+            "invoiceDate": "2025-10-13",
+            "invoiceGross": 414,
+            "properties": [
+                {
+                    "amount": 414,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "15397",
+            "supplierName": "Greenfingers Grounds Maintenan"
+        },
+        {
+            "category": "Window Cleaning",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\484598\\Invoice 146637.pdf",
+            "heading": "3054 Communal Window Cleaning",
+            "internalReference": "385464",
+            "invoiceDate": "2025-07-30",
+            "invoiceGross": 915.88,
+            "properties": [
+                {
+                    "amount": 144.61,
+                    "category": "Window Cleaning",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3054 Communal Window Cleaning",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "146637",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Water Pump Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\477133\\PPMInvoice - 018937.pdf",
+            "heading": "3062 Water Pump Maint",
+            "internalReference": "382383",
+            "invoiceDate": "2025-07-10",
+            "invoiceGross": 469.68,
+            "properties": [
+                {
+                    "amount": 469.68,
+                    "category": "Water Pump Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3062 Water Pump Maint",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "018937",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Bulk Refuse Removal",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\484599\\Invoice 146670.pdf",
+            "heading": "3069 Bulk Refuse Removal",
+            "internalReference": "385321",
+            "invoiceDate": "2025-07-30",
+            "invoiceGross": 360,
+            "properties": [
+                {
+                    "amount": 120,
+                    "category": "Bulk Refuse Removal",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3069 Bulk Refuse Removal",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "146670",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "External Cleaning Contract",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\485807\\Invoice 145882.pdf",
+            "heading": "3077 External Cleaning",
+            "internalReference": "388369",
+            "invoiceDate": "2025-06-30",
+            "invoiceGross": 600.7,
+            "properties": [
+                {
+                    "amount": 97.01,
+                    "category": "External Cleaning Contract",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3077 External Cleaning",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "145882",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "External Cleaning Contract",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\494758\\Invoice 148077.pdf",
+            "heading": "3077 External Cleaning",
+            "internalReference": "394399",
+            "invoiceDate": "2025-09-30",
+            "invoiceGross": 600.7,
+            "properties": [
+                {
+                    "amount": 97.01,
+                    "category": "External Cleaning Contract",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3077 External Cleaning",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "148077",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\473082\\INVOICE.MW_378753_20250710_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "378753",
+            "invoiceDate": "2025-07-01",
+            "invoiceGross": 1094.75,
+            "properties": [
+                {
+                    "amount": 1094.75,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\489899\\INVOICE.MW_392563_20251013_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "392563",
+            "invoiceDate": "2025-10-01",
+            "invoiceGross": 1094.75,
+            "properties": [
+                {
+                    "amount": 1094.75,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Buildings Insurance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10695\\482130\\Invoice.pdf",
+            "heading": "3504 Terrorism Insurance",
+            "internalReference": "386273",
+            "invoiceDate": "2025-06-24",
+            "invoiceGross": 14069.27,
+            "properties": [
+                {
+                    "amount": 493.42,
+                    "category": "Buildings Insurance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3504 Terrorism Insurance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "545691942",
+            "supplierName": "Arthur J Gallagher Insurance ("
+        },
+        {
+            "category": "Door Entry System",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\498661\\Invoice - 020821.pdf",
+            "heading": "3002 Door Entry System",
+            "internalReference": "395444",
+            "invoiceDate": "2025-10-14",
+            "invoiceGross": 1296,
+            "properties": [
+                {
+                    "amount": 1296,
+                    "category": "Door Entry System",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3002 Door Entry System",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020821",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\484781\\0113442193_KOU_YMI0_0000003371437526_PX04_EMA_2025-08-20.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "388427",
+            "invoiceDate": "2025-08-20",
+            "invoiceGross": 392.08,
+            "properties": [
+                {
+                    "amount": 392.08,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113442193",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\496067\\0113448606_KOU_YMI0_0000003467116392_PX04_EMA_2025-10-27.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "397594",
+            "invoiceDate": "2025-10-27",
+            "invoiceGross": 392.08,
+            "properties": [
+                {
+                    "amount": 392.08,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113448606",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\14209\\496087\\1790178829.PDF",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "397615",
+            "invoiceDate": "2025-10-31",
+            "invoiceGross": 1620,
+            "properties": [
+                {
+                    "amount": 270,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "1790178829",
+            "supplierName": "TUV SUD T/a Dunbar & Boardman."
+        },
+        {
+            "category": "Cleaning Contract",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\480943\\Invoice 146433.pdf",
+            "heading": "3042 Cleaning Contract",
+            "internalReference": "385319",
+            "invoiceDate": "2025-07-30",
+            "invoiceGross": 2556.17,
+            "properties": [
+                {
+                    "amount": 419.32,
+                    "category": "Cleaning Contract",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3042 Cleaning Contract",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "146433",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Cleaning Contract",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\484731\\Invoice 145737.pdf",
+            "heading": "3042 Cleaning Contract",
+            "internalReference": "388372",
+            "invoiceDate": "2025-06-30",
+            "invoiceGross": 2556.17,
+            "properties": [
+                {
+                    "amount": 419.32,
+                    "category": "Cleaning Contract",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3042 Cleaning Contract",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "145737",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Cleaning Contract",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\486370\\Invoice 147188.pdf",
+            "heading": "3042 Cleaning Contract",
+            "internalReference": "389717",
+            "invoiceDate": "2025-08-30",
+            "invoiceGross": 2556.17,
+            "properties": [
+                {
+                    "amount": 419.32,
+                    "category": "Cleaning Contract",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3042 Cleaning Contract",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "147188",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Cleaning Contract",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\492080\\Invoice 147900.pdf",
+            "heading": "3042 Cleaning Contract",
+            "internalReference": "394398",
+            "invoiceDate": "2025-09-30",
+            "invoiceGross": 2556.17,
+            "properties": [
+                {
+                    "amount": 419.32,
+                    "category": "Cleaning Contract",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3042 Cleaning Contract",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "147900",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Cleaning Contract",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\497391\\Invoice 148609.pdf",
+            "heading": "3042 Cleaning Contract",
+            "internalReference": "398457",
+            "invoiceDate": "2025-10-30",
+            "invoiceGross": 2556.16,
+            "properties": [
+                {
+                    "amount": 418.43,
+                    "category": "Cleaning Contract",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3042 Cleaning Contract",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "148609",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\19536\\485775\\Invoice SI-66593.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "386610",
+            "invoiceDate": "2025-07-25",
+            "invoiceGross": 500,
+            "properties": [
+                {
+                    "amount": 500,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "SI-66593",
+            "supplierName": "Xtra Maintenance Ltd."
+        },
+        {
+            "category": "Fire Equipment Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10731\\497920\\14836.pdf",
+            "heading": "3061 Fire Equipment Maint",
+            "internalReference": "395178",
+            "invoiceDate": "2025-10-06",
+            "invoiceGross": 300,
+            "properties": [
+                {
+                    "amount": 48.44,
+                    "category": "Fire Equipment Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3061 Fire Equipment Maint",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "14836",
+            "supplierName": "Herts Electrical Contractors L"
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\468495\\50098220258026599.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "375133",
+            "invoiceDate": "2025-06-02",
+            "invoiceGross": 248.49,
+            "properties": [
+                {
+                    "amount": 248.49,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098220258026599",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\474851\\50098220258290927.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "380268",
+            "invoiceDate": "2025-07-03",
+            "invoiceGross": 242.11,
+            "properties": [
+                {
+                    "amount": 242.11,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098220258290927",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\482410\\50098220258517599.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "386524",
+            "invoiceDate": "2025-08-12",
+            "invoiceGross": 245.75,
+            "properties": [
+                {
+                    "amount": 245.75,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098220258517599",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\485484\\50098220258595896.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "389029",
+            "invoiceDate": "2025-09-04",
+            "invoiceGross": 231.71,
+            "properties": [
+                {
+                    "amount": 231.71,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098220258595896",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\489525\\50098220258764616.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "392176",
+            "invoiceDate": "2025-09-25",
+            "invoiceGross": 20.64,
+            "properties": [
+                {
+                    "amount": 20.64,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098220258764616",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\491341\\50098220258860317.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "393826",
+            "invoiceDate": "2025-10-03",
+            "invoiceGross": 252.12,
+            "properties": [
+                {
+                    "amount": 252.12,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098220258860317",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\497539\\50098220259183964.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "398889",
+            "invoiceDate": "2025-11-11",
+            "invoiceGross": 245.04,
+            "properties": [
+                {
+                    "amount": 389.34,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098220259183964",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Water Pump Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\477235\\PPMInvoice - 018931.pdf",
+            "heading": "3062 Water Pump Maint",
+            "internalReference": "382351",
+            "invoiceDate": "2025-07-10",
+            "invoiceGross": 469.82,
+            "properties": [
+                {
+                    "amount": 548.93,
+                    "category": "Water Pump Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3062 Water Pump Maint",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "018931",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\473083\\INVOICE.MW_378754_20250710_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "378754",
+            "invoiceDate": "2025-07-01",
+            "invoiceGross": 1094.75,
+            "properties": [
+                {
+                    "amount": 1094.75,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\489900\\INVOICE.MW_392564_20251013_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "392564",
+            "invoiceDate": "2025-10-01",
+            "invoiceGross": 1094.75,
+            "properties": [
+                {
+                    "amount": 1094.75,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Buildings Insurance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10695\\477278\\Invoice.pdf",
+            "heading": "3506 Buildings Insurance",
+            "internalReference": "382465",
+            "invoiceDate": "2025-06-24",
+            "invoiceGross": 11251.76,
+            "properties": [
+                {
+                    "amount": 11251.76,
+                    "category": "Buildings Insurance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3506 Buildings Insurance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "545691866",
+            "supplierName": "Arthur J Gallagher Insurance ("
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\485254\\0113443173_KOU_YMI0_0000003382901962_PX04_EMA_2025-08-27.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "388733",
+            "invoiceDate": "2025-08-27",
+            "invoiceGross": 392.08,
+            "properties": [
+                {
+                    "amount": 392.08,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113443173",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\488518\\0113444908_KOU_YMI0_0000003410496024_PX04_EMA_2025-09-17.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "391354",
+            "invoiceDate": "2025-09-17",
+            "invoiceGross": 392.08,
+            "properties": [
+                {
+                    "amount": 662.08,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113444908",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Electrical Maintenance & Repairs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\16062\\487286\\Invoice INV57063.pdf",
+            "heading": "3037 Electrical Maintenance",
+            "internalReference": "389775",
+            "invoiceDate": "2025-09-03",
+            "invoiceGross": 156,
+            "properties": [
+                {
+                    "amount": 2251.71,
+                    "category": "Electrical Maintenance & Repairs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3037 Electrical Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "INV57063",
+            "supplierName": "Target Maintenance GB Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\16062\\485817\\Invoice INV56876.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "388595",
+            "invoiceDate": "2025-08-27",
+            "invoiceGross": 516,
+            "properties": [
+                {
+                    "amount": 516,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "INV56876",
+            "supplierName": "Target Maintenance GB Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\19536\\493243\\Invoice SI-68690.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "391210",
+            "invoiceDate": "2025-09-19",
+            "invoiceGross": 389.95,
+            "properties": [
+                {
+                    "amount": 389.95,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "SI-68690",
+            "supplierName": "Xtra Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\19536\\493244\\Invoice SI-69247.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "394678",
+            "invoiceDate": "2025-10-03",
+            "invoiceGross": 600,
+            "properties": [
+                {
+                    "amount": 600,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "SI-69247",
+            "supplierName": "Xtra Maintenance Ltd."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\468539\\52401820258026126.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "375177",
+            "invoiceDate": "2025-06-02",
+            "invoiceGross": 105.89,
+            "properties": [
+                {
+                    "amount": 105.89,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401820258026126",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\468540\\52401920258026125.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "375178",
+            "invoiceDate": "2025-06-02",
+            "invoiceGross": 60.82,
+            "properties": [
+                {
+                    "amount": 60.82,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401920258026125",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\474891\\52401820258290261.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "380308",
+            "invoiceDate": "2025-07-03",
+            "invoiceGross": 98.9,
+            "properties": [
+                {
+                    "amount": 98.9,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401820258290261",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\474892\\52401920258290260.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "380309",
+            "invoiceDate": "2025-07-03",
+            "invoiceGross": 312.61,
+            "properties": [
+                {
+                    "amount": 312.61,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401920258290260",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\480796\\52401820258431449.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "385265",
+            "invoiceDate": "2025-08-04",
+            "invoiceGross": 100.72,
+            "properties": [
+                {
+                    "amount": 100.72,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401820258431449",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\482436\\52401920258514971.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "386550",
+            "invoiceDate": "2025-08-12",
+            "invoiceGross": 69.92,
+            "properties": [
+                {
+                    "amount": 69.92,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401920258514971",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\485513\\52401820258606403.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "389058",
+            "invoiceDate": "2025-09-04",
+            "invoiceGross": 100.72,
+            "properties": [
+                {
+                    "amount": 100.72,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401820258606403",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\485514\\52401920258606400.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "389059",
+            "invoiceDate": "2025-09-04",
+            "invoiceGross": 76.34,
+            "properties": [
+                {
+                    "amount": 76.34,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401920258606400",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\489554\\52401820258767949.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "392205",
+            "invoiceDate": "2025-09-25",
+            "invoiceGross": 5.61,
+            "properties": [
+                {
+                    "amount": 5.61,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401820258767949",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\489555\\52401920258767950.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "392206",
+            "invoiceDate": "2025-09-25",
+            "invoiceGross": 2.5,
+            "properties": [
+                {
+                    "amount": 2.5,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401920258767950",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\491384\\52401820258855364.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "393869",
+            "invoiceDate": "2025-10-03",
+            "invoiceGross": 105.33,
+            "properties": [
+                {
+                    "amount": 105.33,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401820258855364",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\491385\\52401920258855362.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "393870",
+            "invoiceDate": "2025-10-03",
+            "invoiceGross": 76.72,
+            "properties": [
+                {
+                    "amount": 76.72,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401920258855362",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\496797\\52401820259125806.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "398297",
+            "invoiceDate": "2025-11-06",
+            "invoiceGross": 109.21,
+            "properties": [
+                {
+                    "amount": 109.21,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401820259125806",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\496798\\52401820259104527.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "398298",
+            "invoiceDate": "2025-11-06",
+            "invoiceGross": 257.95,
+            "properties": [
+                {
+                    "amount": 257.95,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401820259104527",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\496799\\52401920259117509.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "398299",
+            "invoiceDate": "2025-11-06",
+            "invoiceGross": 103.71,
+            "properties": [
+                {
+                    "amount": 103.71,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "52401920259117509",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\482803\\Invoice - 018959.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "382514",
+            "invoiceDate": "2025-07-11",
+            "invoiceGross": 114,
+            "properties": [
+                {
+                    "amount": 114,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "018959",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\485759\\Invoice - 020042.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "389320",
+            "invoiceDate": "2025-09-01",
+            "invoiceGross": 510,
+            "properties": [
+                {
+                    "amount": 510,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020042",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\16207\\487523\\Invoice - The Loftings Management Co (Maidenhead) Ltd coRMG - NM33441.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "390522",
+            "invoiceDate": "2025-09-12",
+            "invoiceGross": 272.4,
+            "properties": [
+                {
+                    "amount": 272.4,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "NM33441",
+            "supplierName": "Nirvana Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\493131\\Invoice - 020296.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "390607",
+            "invoiceDate": "2025-09-16",
+            "invoiceGross": 120,
+            "properties": [
+                {
+                    "amount": 120,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020296",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\16207\\493487\\Invoice - The Loftings Management Co (Maidenhead) Ltd coRMG - NM34068.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "395456",
+            "invoiceDate": "2025-10-10",
+            "invoiceGross": 272.4,
+            "properties": [
+                {
+                    "amount": 272.4,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "NM34068",
+            "supplierName": "Nirvana Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\494713\\Invoice 148007.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "395696",
+            "invoiceDate": "2025-09-30",
+            "invoiceGross": 90,
+            "properties": [
+                {
+                    "amount": 90,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "148007",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\496379\\Invoice - 020635.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "394431",
+            "invoiceDate": "2025-10-02",
+            "invoiceGross": 120,
+            "properties": [
+                {
+                    "amount": 120,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020635",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Playground Costs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10843\\478692\\RMG (The Loftings) - Safeplay Playground Services Ltd - Invoice No. 30763.pdf",
+            "heading": "3067 Playground Costs",
+            "internalReference": "383630",
+            "invoiceDate": "2025-07-22",
+            "invoiceGross": 77.1,
+            "properties": [
+                {
+                    "amount": 77.1,
+                    "category": "Playground Costs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3067 Playground Costs",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "30763",
+            "supplierName": "Safeplay Playground Services L"
+        },
+        {
+            "category": "Playground Costs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10843\\499203\\RMG (The Loftings) - Safeplay Playground Services Ltd - Invoice No. 31574.pdf",
+            "heading": "3067 Playground Costs",
+            "internalReference": "400150",
+            "invoiceDate": "2025-10-16",
+            "invoiceGross": 77.1,
+            "properties": [
+                {
+                    "amount": 77.1,
+                    "category": "Playground Costs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3067 Playground Costs",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "31574",
+            "supplierName": "Safeplay Playground Services L"
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\475329\\Invoice 145738.pdf",
+            "heading": "3202 Grounds Maintenance",
+            "internalReference": "380590",
+            "invoiceDate": "2025-06-30",
+            "invoiceGross": 2640.36,
+            "properties": [
+                {
+                    "amount": 2640.36,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3202 Grounds Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "145738",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\480667\\Invoice 146434.pdf",
+            "heading": "3202 Grounds Maintenance",
+            "internalReference": "385128",
+            "invoiceDate": "2025-07-30",
+            "invoiceGross": 2640.36,
+            "properties": [
+                {
+                    "amount": 2640.36,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3202 Grounds Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "146434",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\485827\\Invoice 147189.pdf",
+            "heading": "3202 Grounds Maintenance",
+            "internalReference": "389354",
+            "invoiceDate": "2025-08-30",
+            "invoiceGross": 2640.36,
+            "properties": [
+                {
+                    "amount": 2640.36,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3202 Grounds Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "147189",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\487008\\Invoice - 020163.pdf",
+            "heading": "3202 Grounds Maintenance",
+            "internalReference": "390159",
+            "invoiceDate": "2025-09-09",
+            "invoiceGross": 456,
+            "properties": [
+                {
+                    "amount": 456,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3202 Grounds Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020163",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\491747\\Invoice 147901.pdf",
+            "heading": "3202 Grounds Maintenance",
+            "internalReference": "394151",
+            "invoiceDate": "2025-09-30",
+            "invoiceGross": 2640.36,
+            "properties": [
+                {
+                    "amount": 2640.36,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3202 Grounds Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "147901",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\496106\\Invoice 148610.pdf",
+            "heading": "3202 Grounds Maintenance",
+            "internalReference": "397636",
+            "invoiceDate": "2025-10-30",
+            "invoiceGross": 2640.36,
+            "properties": [
+                {
+                    "amount": 2640.36,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3202 Grounds Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "148610",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\19080\\468888\\LOFTING G 310525.pdf",
+            "heading": "3215 SUDS Maintenance",
+            "internalReference": "375508",
+            "invoiceDate": "2025-06-01",
+            "invoiceGross": 576,
+            "properties": [
+                {
+                    "amount": 576,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3215 SUDS Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "LOFTINGG310525",
+            "supplierName": "Avalon Maintenance Ltd."
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\19080\\475391\\LOFTING G 300625.pdf",
+            "heading": "3215 SUDS Maintenance",
+            "internalReference": "380620",
+            "invoiceDate": "2025-07-01",
+            "invoiceGross": 576,
+            "properties": [
+                {
+                    "amount": 576,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3215 SUDS Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "LOFTINGG300625",
+            "supplierName": "Avalon Maintenance Ltd."
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\19080\\480626\\LOFTING G 310725.pdf",
+            "heading": "3215 SUDS Maintenance",
+            "internalReference": "385065",
+            "invoiceDate": "2025-08-01",
+            "invoiceGross": 576,
+            "properties": [
+                {
+                    "amount": 576,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3215 SUDS Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "LOFTINGG310725",
+            "supplierName": "Avalon Maintenance Ltd."
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\19080\\485734\\LOFTING G 310825.pdf",
+            "heading": "3215 SUDS Maintenance",
+            "internalReference": "389284",
+            "invoiceDate": "2025-09-01",
+            "invoiceGross": 576,
+            "properties": [
+                {
+                    "amount": 576,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3215 SUDS Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "LOFTINGG310825",
+            "supplierName": "Avalon Maintenance Ltd."
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\19080\\491755\\LOFTING G 300925.pdf",
+            "heading": "3215 SUDS Maintenance",
+            "internalReference": "394162",
+            "invoiceDate": "2025-10-01",
+            "invoiceGross": 576,
+            "properties": [
+                {
+                    "amount": 576,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3215 SUDS Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "LOFTINGG300925",
+            "supplierName": "Avalon Maintenance Ltd."
+        },
+        {
+            "category": "Grounds Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\19080\\496352\\LOFTING G 311025.pdf",
+            "heading": "3215 SUDS Maintenance",
+            "internalReference": "397879",
+            "invoiceDate": "2025-10-31",
+            "invoiceGross": 576,
+            "properties": [
+                {
+                    "amount": 576,
+                    "category": "Grounds Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3215 SUDS Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "LOFTINGG311025",
+            "supplierName": "Avalon Maintenance Ltd."
+        },
+        {
+            "category": "Administrative Costs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20165\\470239\\INVOICE.MW_376565_20250624_1000740201.pdf",
+            "heading": "3404 Administrative Costs",
+            "internalReference": "376565",
+            "invoiceDate": "2025-06-16",
+            "invoiceGross": 2184,
+            "properties": [
+                {
+                    "amount": 2184,
+                    "category": "Administrative Costs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3404 Administrative Costs",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "OL - Apartment Door Checking."
+        },
+        {
+            "category": "Administrative Costs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20013\\489045\\INVOICE.LB_391787_20251001_1000740201.pdf",
+            "heading": "3404 Administrative Costs",
+            "internalReference": "391787",
+            "invoiceDate": "2025-09-29",
+            "invoiceGross": 348,
+            "properties": [
+                {
+                    "amount": 348,
+                    "category": "Administrative Costs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3404 Administrative Costs",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Project Management Incom"
+        },
+        {
+            "category": "Administrative Costs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20013\\489046\\INVOICE.LB_391788_20251001_1000740201.pdf",
+            "heading": "3404 Administrative Costs",
+            "internalReference": "391788",
+            "invoiceDate": "2025-09-29",
+            "invoiceGross": 336,
+            "properties": [
+                {
+                    "amount": 336,
+                    "category": "Administrative Costs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3404 Administrative Costs",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Project Management Incom"
+        },
+        {
+            "category": "Administrative Costs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20013\\489048\\INVOICE.LB_391790_20251001_1000740201.pdf",
+            "heading": "3404 Administrative Costs",
+            "internalReference": "391790",
+            "invoiceDate": "2025-09-29",
+            "invoiceGross": 420,
+            "properties": [
+                {
+                    "amount": 420,
+                    "category": "Administrative Costs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3404 Administrative Costs",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Project Management Incom"
+        },
+        {
+            "category": "Company Secretarial Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20014\\473084\\INVOICE.MW_378755_20250710_1000740201.pdf",
+            "heading": "3412 Company Secretarial Fees",
+            "internalReference": "378755",
+            "invoiceDate": "2025-07-01",
+            "invoiceGross": 260.75,
+            "properties": [
+                {
+                    "amount": 260.75,
+                    "category": "Company Secretarial Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3412 Company Secretarial Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "Hertford Company Secretaries L"
+        },
+        {
+            "category": "Company Secretarial Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20014\\489901\\INVOICE.MW_392565_20251013_1000740201.pdf",
+            "heading": "3412 Company Secretarial Fees",
+            "internalReference": "392565",
+            "invoiceDate": "2025-10-01",
+            "invoiceGross": 260.75,
+            "properties": [
+                {
+                    "amount": 260.75,
+                    "category": "Company Secretarial Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3412 Company Secretarial Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "Hertford Company Secretaries L"
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\473085\\INVOICE.MW_378756_20250710_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "378756",
+            "invoiceDate": "2025-07-01",
+            "invoiceGross": 6138.74,
+            "properties": [
+                {
+                    "amount": 6138.74,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\489902\\INVOICE.MW_392566_20251013_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "392566",
+            "invoiceDate": "2025-10-01",
+            "invoiceGross": 6138.74,
+            "properties": [
+                {
+                    "amount": 6138.74,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20010\\473086\\INVOICE.MW_378757_20250710_1000740201.pdf",
+            "heading": "3431 Correspondence Fee",
+            "internalReference": "378757",
+            "invoiceDate": "2025-07-01",
+            "invoiceGross": 653.75,
+            "properties": [
+                {
+                    "amount": 653.75,
+                    "category": "",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3431 Correspondence Fee",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Postage."
+        },
+        {
+            "category": "",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20010\\489903\\INVOICE.MW_392567_20251013_1000740201.pdf",
+            "heading": "3431 Correspondence Fee",
+            "internalReference": "392567",
+            "invoiceDate": "2025-10-01",
+            "invoiceGross": 653.75,
+            "properties": [
+                {
+                    "amount": 653.75,
+                    "category": "",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3431 Correspondence Fee",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Postage."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\486614\\Invoice - 020132.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "389948",
+            "invoiceDate": "2025-09-08",
+            "invoiceGross": 114,
+            "properties": [
+                {
+                    "amount": 730.35,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020132",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\473087\\INVOICE.MW_378758_20250710_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "378758",
+            "invoiceDate": "2025-07-01",
+            "invoiceGross": 1321.5,
+            "properties": [
+                {
+                    "amount": 1321.5,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\489904\\INVOICE.MW_392568_20251013_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "392568",
+            "invoiceDate": "2025-10-01",
+            "invoiceGross": 1321.5,
+            "properties": [
+                {
+                    "amount": 1321.5,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Buildings Insurance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10695\\484597\\Invoice.pdf",
+            "heading": "3506 Buildings Insurance",
+            "internalReference": "386279",
+            "invoiceDate": "2025-06-24",
+            "invoiceGross": 15062.33,
+            "properties": [
+                {
+                    "amount": 15062.33,
+                    "category": "Buildings Insurance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3506 Buildings Insurance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "545691768",
+            "supplierName": "Arthur J Gallagher Insurance ("
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\477195\\0770059554_KOU_YTRF_0000003296416286_PX04_EMA_2025-06-30.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "380786",
+            "invoiceDate": "2025-06-30",
+            "invoiceGross": 270.32,
+            "properties": [
+                {
+                    "amount": 270.32,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "770059554",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\478107\\0113439143_KOU_YMI0_0000003321652122_PX04_EMA_2025-07-15.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "383107",
+            "invoiceDate": "2025-07-15",
+            "invoiceGross": 392.08,
+            "properties": [
+                {
+                    "amount": 392.08,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113439143",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\495218\\0113448365_KOU_YMI0_0000003463937065_PX04_EMA_2025-10-21.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "396907",
+            "invoiceDate": "2025-10-21",
+            "invoiceGross": 392.08,
+            "properties": [
+                {
+                    "amount": 662.08,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113448365",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Electrical Maintenance & Repairs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10731\\477187\\14488.pdf",
+            "heading": "3037 Electrical Maintenance",
+            "internalReference": "378164",
+            "invoiceDate": "2025-06-24",
+            "invoiceGross": 216,
+            "properties": [
+                {
+                    "amount": 2598.89,
+                    "category": "Electrical Maintenance & Repairs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3037 Electrical Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "14488",
+            "supplierName": "Herts Electrical Contractors L"
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\498757\\Invoice - 021421.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "399722",
+            "invoiceDate": "2025-11-18",
+            "invoiceGross": 540,
+            "properties": [
+                {
+                    "amount": 540,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "021421",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Fire Equipment Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\16207\\470004\\NM31047.pdf",
+            "heading": "3061 Fire Equipment Maint",
+            "internalReference": "376175",
+            "invoiceDate": "2025-06-01",
+            "invoiceGross": 588.6,
+            "properties": [
+                {
+                    "amount": 588.6,
+                    "category": "Fire Equipment Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3061 Fire Equipment Maint",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "NM31047",
+            "supplierName": "Nirvana Maintenance Ltd."
+        },
+        {
+            "category": "Fire Equipment Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\16207\\497763\\Invoice - The Loftings Management Co (Maidenhead) Ltd coRMG - NM34281.pdf",
+            "heading": "3061 Fire Equipment Maint",
+            "internalReference": "397556",
+            "invoiceDate": "2025-10-29",
+            "invoiceGross": 272.4,
+            "properties": [
+                {
+                    "amount": 272.4,
+                    "category": "Fire Equipment Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3061 Fire Equipment Maint",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "NM34281",
+            "supplierName": "Nirvana Maintenance Ltd."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\468505\\50102920258026589.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "375143",
+            "invoiceDate": "2025-06-02",
+            "invoiceGross": 162.78,
+            "properties": [
+                {
+                    "amount": 162.78,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50102920258026589",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\474860\\50102920258290916.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "380277",
+            "invoiceDate": "2025-07-03",
+            "invoiceGross": 91.02,
+            "properties": [
+                {
+                    "amount": 91.02,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50102920258290916",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\474861\\50102920258290917.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "380278",
+            "invoiceDate": "2025-07-03",
+            "invoiceGross": 825.91,
+            "properties": [
+                {
+                    "amount": 825.91,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50102920258290917",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\481610\\50102920258483380.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "385824",
+            "invoiceDate": "2025-08-07",
+            "invoiceGross": 395.06,
+            "properties": [
+                {
+                    "amount": 395.06,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50102920258483380",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\485491\\50102920258595860.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "389036",
+            "invoiceDate": "2025-09-04",
+            "invoiceGross": 190.87,
+            "properties": [
+                {
+                    "amount": 190.87,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50102920258595860",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\489531\\50102920258764651.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "392182",
+            "invoiceDate": "2025-09-25",
+            "invoiceGross": 10.41,
+            "properties": [
+                {
+                    "amount": 10.41,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50102920258764651",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\491350\\50102920258860243.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "393835",
+            "invoiceDate": "2025-10-03",
+            "invoiceGross": 218.64,
+            "properties": [
+                {
+                    "amount": 218.64,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50102920258860243",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\496763\\50102920259049944.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "398263",
+            "invoiceDate": "2025-11-06",
+            "invoiceGross": 208.33,
+            "properties": [
+                {
+                    "amount": 563.66,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50102920259049944",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Water",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10627\\485187\\4.pdf",
+            "heading": "3304 Water",
+            "internalReference": "384844",
+            "invoiceDate": "2025-07-28",
+            "invoiceGross": 22.74,
+            "properties": [
+                {
+                    "amount": 22.74,
+                    "category": "Water",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3304 Water",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "31213468-7240725",
+            "supplierName": "South East Water Ltd."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\473088\\INVOICE.MW_378759_20250710_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "378759",
+            "invoiceDate": "2025-07-01",
+            "invoiceGross": 1094.75,
+            "properties": [
+                {
+                    "amount": 1094.75,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\489905\\INVOICE.MW_392569_20251013_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "392569",
+            "invoiceDate": "2025-10-01",
+            "invoiceGross": 1094.75,
+            "properties": [
+                {
+                    "amount": 1094.75,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Buildings Insurance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10695\\477261\\Invoice.pdf",
+            "heading": "3506 Buildings Insurance",
+            "internalReference": "382462",
+            "invoiceDate": "2025-06-24",
+            "invoiceGross": 15610.86,
+            "properties": [
+                {
+                    "amount": 15610.86,
+                    "category": "Buildings Insurance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3506 Buildings Insurance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "545691496",
+            "supplierName": "Arthur J Gallagher Insurance ("
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\477190\\0113436751_KOU_YMI0_0000003279010266_PX04_EMA_2025-06-19.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "378435",
+            "invoiceDate": "2025-06-19",
+            "invoiceGross": 392.08,
+            "properties": [
+                {
+                    "amount": 392.08,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113436751",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\488535\\0113444903_KOU_YMI0_0000003410496019_PX04_EMA_2025-09-17.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "391383",
+            "invoiceDate": "2025-09-17",
+            "invoiceGross": 392.08,
+            "properties": [
+                {
+                    "amount": 392.08,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113444903",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\497199\\0770068745_KOU_YTRF_0000003434528685_PX04_EMA_2025-10-02.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "394902",
+            "invoiceDate": "2025-10-02",
+            "invoiceGross": 17415.3,
+            "properties": [
+                {
+                    "amount": 17415.3,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "770068745",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Electrical Maintenance & Repairs",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\16345\\482814\\Invoice No 15751.pdf",
+            "heading": "3037 Electrical Maintenance",
+            "internalReference": "382704",
+            "invoiceDate": "2025-06-26",
+            "invoiceGross": 414,
+            "properties": [
+                {
+                    "amount": 2556.76,
+                    "category": "Electrical Maintenance & Repairs",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3037 Electrical Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "15751",
+            "supplierName": "M.Nic Group Ltd"
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\476478\\PPMInvoice - 018933.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "381659",
+            "invoiceDate": "2025-07-10",
+            "invoiceGross": 469.68,
+            "properties": [
+                {
+                    "amount": 518.12,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "018933",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\468506\\50103020258026588.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "375144",
+            "invoiceDate": "2025-06-02",
+            "invoiceGross": 156.14,
+            "properties": [
+                {
+                    "amount": 156.14,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50103020258026588",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\474862\\50103020258290915.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "380279",
+            "invoiceDate": "2025-07-03",
+            "invoiceGross": 145.37,
+            "properties": [
+                {
+                    "amount": 145.37,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50103020258290915",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\480793\\50103020258431853.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "385262",
+            "invoiceDate": "2025-08-04",
+            "invoiceGross": 130.27,
+            "properties": [
+                {
+                    "amount": 130.27,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50103020258431853",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\485492\\50103020258595859.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "389037",
+            "invoiceDate": "2025-09-04",
+            "invoiceGross": 130.27,
+            "properties": [
+                {
+                    "amount": 130.27,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50103020258595859",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\489532\\50103020258764652.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "392183",
+            "invoiceDate": "2025-09-25",
+            "invoiceGross": 6.36,
+            "properties": [
+                {
+                    "amount": 6.36,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50103020258764652",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\491351\\50103020258860242.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "393836",
+            "invoiceDate": "2025-10-03",
+            "invoiceGross": 133.93,
+            "properties": [
+                {
+                    "amount": 133.93,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50103020258860242",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\496764\\50103020259049943.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "398264",
+            "invoiceDate": "2025-11-06",
+            "invoiceGross": 155.09,
+            "properties": [
+                {
+                    "amount": 155.09,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50103020259049943",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Water Pump Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\476481\\PPMInvoice - 018932.pdf",
+            "heading": "3062 Water Pump Maint",
+            "internalReference": "381662",
+            "invoiceDate": "2025-07-10",
+            "invoiceGross": 469.68,
+            "properties": [
+                {
+                    "amount": 469.68,
+                    "category": "Water Pump Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3062 Water Pump Maint",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "018932",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\473089\\INVOICE.MW_378760_20250710_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "378760",
+            "invoiceDate": "2025-07-01",
+            "invoiceGross": 869.5,
+            "properties": [
+                {
+                    "amount": 869.5,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\489906\\INVOICE.MW_392570_20251013_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "392570",
+            "invoiceDate": "2025-10-01",
+            "invoiceGross": 869.5,
+            "properties": [
+                {
+                    "amount": 869.5,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\477118\\0113434935_KOU_YMI0_0000003264367038_PX04_EMA_2025-06-09.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "376995",
+            "invoiceDate": "2025-06-09",
+            "invoiceGross": 392.11,
+            "properties": [
+                {
+                    "amount": 392.11,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113434935",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\477189\\0113436750_KOU_YMI0_0000003279010256_PX04_EMA_2025-06-19.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "378432",
+            "invoiceDate": "2025-06-19",
+            "invoiceGross": 392.11,
+            "properties": [
+                {
+                    "amount": 392.11,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113436750",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\488511\\0113444901_KOU_YMI0_0000003410496017_PX04_EMA_2025-09-17.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "391346",
+            "invoiceDate": "2025-09-17",
+            "invoiceGross": 392.11,
+            "properties": [
+                {
+                    "amount": 2630.17,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113444901",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\477135\\PPMInvoice - 018935.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "382384",
+            "invoiceDate": "2025-07-10",
+            "invoiceGross": 469.68,
+            "properties": [
+                {
+                    "amount": 520.6,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "018935",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\468498\\50098820258026597.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "375136",
+            "invoiceDate": "2025-06-02",
+            "invoiceGross": 104.73,
+            "properties": [
+                {
+                    "amount": 104.73,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098820258026597",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\474853\\50098820258290925.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "380270",
+            "invoiceDate": "2025-07-03",
+            "invoiceGross": 100.8,
+            "properties": [
+                {
+                    "amount": 100.8,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098820258290925",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\480790\\50098820258431856.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "385259",
+            "invoiceDate": "2025-08-04",
+            "invoiceGross": 103.43,
+            "properties": [
+                {
+                    "amount": 103.43,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098820258431856",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\482412\\50098820258526279.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "386526",
+            "invoiceDate": "2025-08-14",
+            "invoiceGross": 89.44,
+            "properties": [
+                {
+                    "amount": 89.44,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098820258526279",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\482413\\50098820258526273.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "386527",
+            "invoiceDate": "2025-08-14",
+            "invoiceGross": 103.43,
+            "properties": [
+                {
+                    "amount": -103.43,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098820258526273",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\489646\\50098820258786334.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "392301",
+            "invoiceDate": "2025-09-30",
+            "invoiceGross": 77.28,
+            "properties": [
+                {
+                    "amount": 77.28,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098820258786334",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\489647\\50098820258786333.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "392302",
+            "invoiceDate": "2025-09-30",
+            "invoiceGross": 89.44,
+            "properties": [
+                {
+                    "amount": -89.44,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098820258786333",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\492663\\50098820258940811.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "394939",
+            "invoiceDate": "2025-10-09",
+            "invoiceGross": 5.38,
+            "properties": [
+                {
+                    "amount": 5.38,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098820258940811",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\473090\\INVOICE.MW_378761_20250710_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "378761",
+            "invoiceDate": "2025-07-01",
+            "invoiceGross": 113.75,
+            "properties": [
+                {
+                    "amount": 113.75,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\489907\\INVOICE.MW_392571_20251013_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "392571",
+            "invoiceDate": "2025-10-01",
+            "invoiceGross": 113.75,
+            "properties": [
+                {
+                    "amount": 113.75,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\469993\\Invoice - 018268.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "376050",
+            "invoiceDate": "2025-06-04",
+            "invoiceGross": 114,
+            "properties": [
+                {
+                    "amount": 258.61,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "018268",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Window Cleaning",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10583\\497396\\Invoice 148817.pdf",
+            "heading": "3054 Communal Window Cleaning",
+            "internalReference": "398676",
+            "invoiceDate": "2025-10-30",
+            "invoiceGross": 915.89,
+            "properties": [
+                {
+                    "amount": 915.89,
+                    "category": "Window Cleaning",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3054 Communal Window Cleaning",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "148817",
+            "supplierName": "Rose Property Services.."
+        },
+        {
+            "category": "Water Pump Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\476479\\PPMInvoice - 018930.pdf",
+            "heading": "3062 Water Pump Maint",
+            "internalReference": "381660",
+            "invoiceDate": "2025-07-10",
+            "invoiceGross": 469.68,
+            "properties": [
+                {
+                    "amount": 783.71,
+                    "category": "Water Pump Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3062 Water Pump Maint",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "018930",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Water",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10627\\498674\\Xerox Scan_10112025153737.pdf",
+            "heading": "3304 Water",
+            "internalReference": "399670",
+            "invoiceDate": "2025-08-05",
+            "invoiceGross": 92.48,
+            "properties": [
+                {
+                    "amount": 92.48,
+                    "category": "Water",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3304 Water",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "31052968-2240725",
+            "supplierName": "South East Water Ltd."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\473091\\INVOICE.MW_378762_20250710_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "378762",
+            "invoiceDate": "2025-07-01",
+            "invoiceGross": 1094.75,
+            "properties": [
+                {
+                    "amount": 1094.75,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Management Fees",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\20004\\489908\\INVOICE.MW_392572_20251013_1000740201.pdf",
+            "heading": "3421 Management Fees",
+            "internalReference": "392572",
+            "invoiceDate": "2025-10-01",
+            "invoiceGross": 1094.75,
+            "properties": [
+                {
+                    "amount": 1094.75,
+                    "category": "Management Fees",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3421 Management Fees",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "",
+            "supplierName": "RMG - Mgmt Fees RMG South."
+        },
+        {
+            "category": "Buildings Insurance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10695\\481891\\Invoice.pdf",
+            "heading": "3506 Buildings Insurance",
+            "internalReference": "386032",
+            "invoiceDate": "2025-06-24",
+            "invoiceGross": 11132.35,
+            "properties": [
+                {
+                    "amount": 10633.41,
+                    "category": "Buildings Insurance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3506 Buildings Insurance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "545691417",
+            "supplierName": "Arthur J Gallagher Insurance ("
+        },
+        {
+            "category": "Door Entry System",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\477223\\Invoice - 018890.pdf",
+            "heading": "3002 Door Entry System",
+            "internalReference": "381571",
+            "invoiceDate": "2025-07-08",
+            "invoiceGross": 114,
+            "properties": [
+                {
+                    "amount": 114,
+                    "category": "Door Entry System",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3002 Door Entry System",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "018890",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Door Entry System",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\16062\\484957\\Invoice INV56522.pdf",
+            "heading": "3002 Door Entry System",
+            "internalReference": "386877",
+            "invoiceDate": "2025-08-12",
+            "invoiceGross": 1302,
+            "properties": [
+                {
+                    "amount": 1302,
+                    "category": "Door Entry System",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3002 Door Entry System",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "INV56522",
+            "supplierName": "Target Maintenance GB Ltd."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\496068\\0113448605_KOU_YMI0_0000003467210413_PX04_EMA_2025-10-27.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "397596",
+            "invoiceDate": "2025-10-27",
+            "invoiceGross": 392.08,
+            "properties": [
+                {
+                    "amount": 932.08,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113448605",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "Lift Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10411\\499080\\0113450269_KOU_YMI0_0000003499509668_PX04_EMA_2025-11-18.pdf",
+            "heading": "3023 Lift Maintenance",
+            "internalReference": "400000",
+            "invoiceDate": "2025-11-18",
+            "invoiceGross": 392.08,
+            "properties": [
+                {
+                    "amount": 2487.79,
+                    "category": "Lift Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3023 Lift Maintenance",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "113450269",
+            "supplierName": "Kone Plc."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\477143\\Invoice - 018946.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "382401",
+            "invoiceDate": "2025-07-11",
+            "invoiceGross": 114,
+            "properties": [
+                {
+                    "amount": 114,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "018946",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "General Repairs & Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\493482\\Invoice - 020827.pdf",
+            "heading": "3045 General Repairs & Maint.",
+            "internalReference": "395445",
+            "invoiceDate": "2025-10-14",
+            "invoiceGross": 270,
+            "properties": [
+                {
+                    "amount": 270,
+                    "category": "General Repairs & Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3045 General Repairs & Maint.",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020827",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Fire Equipment Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\71920\\494230\\Invoice - 020419.pdf",
+            "heading": "3061 Fire Equipment Maint",
+            "internalReference": "391823",
+            "invoiceDate": "2025-09-25",
+            "invoiceGross": 252,
+            "properties": [
+                {
+                    "amount": 252,
+                    "category": "Fire Equipment Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3061 Fire Equipment Maint",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "020419",
+            "supplierName": "JLB Property Maintenance Ltd."
+        },
+        {
+            "category": "Fire Equipment Maintenance",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\10731\\497944\\14837.pdf",
+            "heading": "3061 Fire Equipment Maint",
+            "internalReference": "395019",
+            "invoiceDate": "2025-10-06",
+            "invoiceGross": 300,
+            "properties": [
+                {
+                    "amount": 300,
+                    "category": "Fire Equipment Maintenance",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3061 Fire Equipment Maint",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "14837",
+            "supplierName": "Herts Electrical Contractors L"
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\468496\\50098320258026598.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "375134",
+            "invoiceDate": "2025-06-02",
+            "invoiceGross": 202.2,
+            "properties": [
+                {
+                    "amount": 202.2,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098320258026598",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\474852\\50098320258290926.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "380269",
+            "invoiceDate": "2025-07-03",
+            "invoiceGross": 198.96,
+            "properties": [
+                {
+                    "amount": 198.96,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098320258290926",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\482411\\50098320258515133.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "386525",
+            "invoiceDate": "2025-08-12",
+            "invoiceGross": 213.79,
+            "properties": [
+                {
+                    "amount": 213.79,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098320258515133",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\485485\\50098320258595895.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "389030",
+            "invoiceDate": "2025-09-04",
+            "invoiceGross": 174.08,
+            "properties": [
+                {
+                    "amount": 174.08,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098320258595895",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\489526\\50098320258764617.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "392177",
+            "invoiceDate": "2025-09-25",
+            "invoiceGross": 12.35,
+            "properties": [
+                {
+                    "amount": 12.35,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098320258764617",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\491342\\50098320258860316.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "393827",
+            "invoiceDate": "2025-10-03",
+            "invoiceGross": 242.12,
+            "properties": [
+                {
+                    "amount": 242.12,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098320258860316",
+            "supplierName": "Pozitive Energy Limited."
+        },
+        {
+            "category": "Electricity",
+            "document": "\\\\rmg-qube-101\\qgs$\\rm2\\livedata\\doc\\docs\\Supplier\\18623\\496755\\50098320259073415.pdf",
+            "heading": "3305 Electricity",
+            "internalReference": "398255",
+            "invoiceDate": "2025-11-06",
+            "invoiceGross": 210.04,
+            "properties": [
+                {
+                    "amount": 210.04,
+                    "category": "Electricity",
+                    "description": "The Loftings Management Co. (Maidenhead) Ltd",
+                    "heading": "3305 Electricity",
+                    "reference": "740201"
+                }
+            ],
+            "supplierInvoice": "50098320259073415",
+            "supplierName": "Pozitive Energy Limited."
+        }
+    ],
+    "multipleProperty": false,
+    "propertyDescription": "The Loftings Management Co. (Maidenhead) Ltd"
+}
